@@ -1,5 +1,6 @@
 # 🎨 Task 02: Prompting for Creativity
-
+![Header](https://github.com/user-attachments/assets/7a5a5895-ed8d-4391-9f82-9f1595a88354
+)
 ![Few-Shot Prompting](https://img.shields.io/badge/Technique-Few_Shot-success?style=for-the-badge)
 ![Creative Writing](https://img.shields.io/badge/Focus-Creative_Writing-purple?style=for-the-badge)
 
